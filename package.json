@@ -1,0 +1,28 @@
+{
+  "name": "teste_hello_cypress",
+  "version": "1.0.0",
+  "description": "Teste na página de teste do Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/aldrea.mno/teste_hello_cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "test",
+    "automation"
+  ],
+  "author": "Aldrea Malheiros (Aldrea MOR)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/aldrea.mno/teste_hello_cypress/issues"
+  },
+  "homepage": "https://gitlab.com/aldrea.mno/teste_hello_cypress#readme",
+  "dependencies": {
+    "cypress": "^4.12.0"
+  }
+}
